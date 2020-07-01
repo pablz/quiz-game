@@ -1,7 +1,7 @@
 // JUEGO
 var quiz = [
     {
-      pregunta: 'Cuál es el nombre del planeta rojo?',
+      pregunta: 'Como se llama el nombre del planeta rojo?',
       respuesta: 'marte',
     },
     {
